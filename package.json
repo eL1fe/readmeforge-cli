@@ -1,0 +1,33 @@
+{
+  "name": "readmeforge",
+  "version": "1.0.0",
+  "description": "Generate professional README files with AI",
+  "bin": {
+    "readmeforge": "./bin/cli.js"
+  },
+  "main": "./bin/cli.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eL1fe/readmeforge-cli.git"
+  },
+  "keywords": [
+    "readme",
+    "generator",
+    "ai",
+    "documentation",
+    "cli"
+  ],
+  "author": "eL1fe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eL1fe/readmeforge-cli/issues"
+  },
+  "homepage": "https://readmeforge.app",
+  "engines": {
+    "node": ">=18"
+  }
+}
