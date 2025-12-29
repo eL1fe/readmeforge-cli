@@ -54,7 +54,7 @@ function callAPI(apiKey, repoUrl, options) {
 
     const req = https.request(
       {
-        hostname: "readmeforge.app",
+        hostname: "www.readmeforge.app",
         port: 443,
         path: "/api/generate/action",
         method: "POST",
